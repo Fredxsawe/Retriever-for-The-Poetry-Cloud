@@ -7,9 +7,6 @@
 
 这个简单的算法目前只能计算所有五言绝句或七言绝句的相关编号，支持所有的unicode汉字（截至2026.8.22），共有约1.749*10^140种可能。
 
-The following translation is machine-generated:
-In the novel "Poem Cloud", in order to find the best poem, an extraterrestrial civilization calculates all possible permutations of words, and stores them into a huge database called "Poetry Cloud".
+我的B站主页：https://space.bilibili.com/671390377
 
-Due to the excessive variety of permutations and combinations, humans are currently unable to store all poems. However, if there exists a "poem cloud" arranged according to fixed rules, we can obtain the number of a poem in the "poem cloud" through direct calculation, or generate a poem based on the number.
-
-This simple algorithm can currently only calculate the relevant numbers for all five-character or seven-character quatrains, supporting all Unicode Chinese characters (as of August 22, 2026), with a total of approximately 1.749*10^140 possibilities.
+我没有继续完善功能的想法，而且我几乎不会看github，所以如果要反馈的话可以在B站私信我。
